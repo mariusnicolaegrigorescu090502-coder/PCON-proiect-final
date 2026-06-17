@@ -11,14 +11,15 @@ Folosim Casti
 ## (Istoric)
 
 (09.05.2026) - Inițializare proiect + Încărcare patch inițial (Work In Progress)
+(07.06.2026) - Varianta finala a proiectului
 
 ## (Link-uri)
 .
 
 # Dezvoltarea proiectului
 
-În această etapă, obiectivul principal a fost transformarea vocii într-un declanșator (trigger) pentru mecanica de salt.
-
+(09.05.2026) În această etapă, obiectivul principal a fost transformarea vocii într-un declanșator (trigger) pentru mecanica de salt.
+(07.06.2026) Am ajuns la ultima varianta a proiectului, caruia i-am mai adaugat o sectiune de scor.
 ## Elemente obligatorii
 
 Max/MSP/Jitter
